@@ -7,7 +7,7 @@ Customers tend to churn more who are on a **month-to-month contract**. On deeper
 
 
 
-Accuracy and F1-Score of Algorithms
+Accuracy and F1-Score of Algorithms:
 ![image](https://github.com/saishh8/Telco-Customer-Churn-Analysis/assets/60099055/c43d2240-8d44-42e9-9acf-6df6237fe93e)
 
 
